@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="58px" viewBox="0 0 58 58" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>外</title>
+    <defs>
+        <linearGradient x1="80.6565067%" y1="10.3495152%" x2="27.6773864%" y2="93.8975575%" id="linearGradient-1">
+            <stop stop-color="#FF6B00" offset="0%"></stop>
+            <stop stop-color="#FF6B00" stop-opacity="0" offset="36.845843%"></stop>
+            <stop stop-color="#FF6B00" stop-opacity="0" offset="73.713396%"></stop>
+            <stop stop-color="#FF6B00" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="28.75" cy="28.75" r="28.75"></circle>
+        <filter x="-8.7%" y="-8.7%" width="117.4%" height="117.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.419607843   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-764.000000, -424.000000)">
+            <g id="外" transform="translate(764.000000, 424.000000)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <circle stroke="url(#linearGradient-1)" stroke-width="0.5" stroke-linejoin="square" cx="28.75" cy="28.75" r="28.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

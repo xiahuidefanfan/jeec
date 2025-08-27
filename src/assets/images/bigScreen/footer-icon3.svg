@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="14px" viewBox="0 0 44 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>大三角</title>
+    <defs>
+        <linearGradient x1="50%" y1="118.523438%" x2="50%" y2="-4.68450088%" id="linearGradient-1">
+            <stop stop-color="#FF6B00" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FF6B00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板备份" transform="translate(-940.000000, -968.000000)" fill="url(#linearGradient-1)">
+            <polygon id="大三角" points="942.782659 977.130762 961.900942 968.174931 981.044219 977.130762 983.826878 982.000415 961.900942 975.623322 940 982.000415"></polygon>
+        </g>
+    </g>
+</svg>
